@@ -1,2 +1,2 @@
 # procd-compiler-assistant
-Assistant for compiler.
+This is an assistant for procd's compiler.
